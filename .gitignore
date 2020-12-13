@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+.idea/
+.vscode/
+.vs/
+bin/
+obj/
+logs/
+files/
+/*.user
+wwwroot
