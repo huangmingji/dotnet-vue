@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "huangmingji<ming.j.huang@outlook.com>",
+    "classifications": [ "Web", "WebAPI", "SPA", "Vue" ],
+    "identity": "DotnetVue",
+    "name": "ASP.NET Core with Vue",
+    "shortName": "vue",
+    "tags": {
+      "language": "C#",
+      "type": "project"
+    },
+    "sourceName": "DotnetVue",
+    "preferNameDirectory": true
+  }

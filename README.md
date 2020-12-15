@@ -1,19 +1,18 @@
 # dotnet-vue
 
-1. 首先安装 node，官网地址
-https://nodejs.org
-
-2. 安装vue
-```
-npm install -g vue
+## Usage
+### Install Template
+```bash
+dotnet new -i DotnetVue::1.1.0
 ```
 
-3. 安装vue-cli
-```
-npm install vue-cli
+### Uninstall Template
+```bash
+dotnet new -u DotnetVue
 ```
 
-4. 初始化 webpage
-```
-vue init webpack
+### Create New Project
+```bash
+# Create an empty vue project
+dotnet new vue
 ```
