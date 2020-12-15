@@ -3,7 +3,7 @@
 ## Usage
 ### Install Template
 ```bash
-dotnet new -i DotnetVue::1.1.0
+dotnet new --install DotnetVue::1.1.0
 ```
 
 ### Uninstall Template
