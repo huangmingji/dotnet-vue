@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <Target Name="PrecompileScript" BeforeTargets="BeforeBuild">
-    <Exec Command="npm install" />
+    <Exec Command="yarn" />
     <Exec Command="npm run build" />
   </Target>
 
